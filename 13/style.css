@@ -1,0 +1,24 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+table{
+    height: 500px;
+    width: 500px;
+    border: 1px solid #000;
+}
+ td{
+    border: 1px solid #000;
+    width: 100px;
+    height: 100px;
+}
+.container{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+}
+img{
+    width: 84px;
+    margin: auto;
+}
